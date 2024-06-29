@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="ebony">#606C5D</color>
+    <color name="snow">#FFF4F4</color>
+    <color name="d_white">#F7E6C4</color>
+    <color name="e_yellow">#F1C376</color>
+    <color name="red">#F80202</color>
+    <color name="old_lace">#FAF1E4</color>
+    <color name="tea_green">#CEDEBD</color>
+    <color name="olivine">#9EB384</color>
+    <color name="hunter_green">#435334</color>
+
+</resources>
